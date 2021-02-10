@@ -32,5 +32,5 @@ slides:
 
 **Funding**: School of Languages, Cultures and Societies, University of Leeds.
 
-**Summary**: This project uses eye-tracking to investigate how information about the speakers’ accent affects the time course of spoken word recognition.
+**Summary**: This project uses eye-tracking to investigate how information about the speakers’ accent influences the time course of spoken word recognition.
 
