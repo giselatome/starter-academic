@@ -37,7 +37,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: "media/lanc2021_slides.pdf"
+url_slides: "media/TomeLourido_lanc2021_slides.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
