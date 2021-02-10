@@ -33,7 +33,7 @@ abstract: It has long been debated whether speech processing remains flexible in
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [bilingualism, Galician, galego, speech production, speech perception, eye-tracking]
+tags: [Bilingualism, Galician, Galego, Speech production, Speech perception, Neofalantes, Eye-tracking, Language dominance switch]
 
 # Display this page in the Featured widget?
 featured: false
@@ -73,13 +73,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

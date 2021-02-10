@@ -34,7 +34,7 @@ abstract: "As a result of complex international migration patterns, listeners in
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [phonetics, accent identification, children development, sociolinguistic awareness]
+tags: [Phonetics, Accent identification, Children development, Sociolinguistic awareness]
 
 # Display this page in the Featured widget?
 featured: false
@@ -75,13 +75,3 @@ projects:
 slides: ''
 
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -47,7 +47,7 @@ authors:
 - admin
 - Robert Lennon
 - Bronwen G. Evans
-tags: []
+tags: [Sociophonetics, Sociophonetic processing, Northern English, Eye-tracking]
 
 # Is this a featured talk? (true/false)
 featured: false

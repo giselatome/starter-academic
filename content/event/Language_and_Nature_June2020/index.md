@@ -24,7 +24,7 @@ authors:
 - admin
 - Barry Heselwood
 - Abdullah al-Mahri
-tags: [Mehri, Modern South Arabian Languages, language documentation]
+tags: [Mehri, Modern South Arabian Languages, Language documentation]
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -4,6 +4,7 @@ summary:
 tags:
 - Bilingual speech processing
 - Galician bilingualism
+- Language dominance switch
 - Galician
 - Neofalantes
 - New speakers

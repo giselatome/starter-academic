@@ -33,7 +33,7 @@ abstract: In minority language communities, language choice may be related to id
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [language dominance, language switch, speech production, speech perception, Galician vowels, minority languages, Galician, Galician phonetics, fonética galega, vogais galego, galego, new speakers, neofalantes]
+tags: [Language dominance, Language dominance switch, Speech production, Speech perception, Galician vowels, Minority languages, Galician, Galician phonetics, Galego, New speakers, Neofalantes]
 
 # Display this page in the Featured widget?
 featured: false
@@ -75,13 +75,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -20,7 +20,7 @@ all_day: false
 publishDate: ""
 
 authors: []
-tags: [eye-tracking, Galician, galego, speech processing]
+tags: [Eye-tracking, Galician, galego, Speech processing]
 
 # Is this a featured talk? (true/false)
 featured: false

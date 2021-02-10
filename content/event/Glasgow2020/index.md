@@ -24,7 +24,7 @@ all_day: false
 publishDate: ""
 
 authors: []
-tags: [speech, sociophonetics, eye-tracking, speech processing]
+tags: [Sociophonetics, Sociophonetic processing, Eye-tracking, Speech processing]
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -25,7 +25,7 @@ all_day: false
 publishDate: ""
 
 authors: []
-tags: [eye-tracking, accent processing, speech processing, northern English]
+tags: [Eye-tracking, Speech processing, Sociophonetics, Sociophonetic processing, Northern English]
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -36,7 +36,7 @@ abstract: "This paper examines the vowel productions of three groups of adult Ga
 # Summary. An optional shortened abstract.
 summary: 
 - 2013_galician_bilingualism
-tags: [phonetics, Galician vowels, galego, bilingualism, bilingual speech production, vogais galego, neofalantes]
+tags: [Phonetics, Galician vowels, Galego, Bilingualism, Bilingual speech production, Neofalantes, Language dominance switch]
 
 # Display this page in the Featured widget?
 featured: false
@@ -76,13 +76,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

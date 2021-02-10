@@ -46,7 +46,7 @@ abstract: It has long been debated whether speech production and perception rema
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [bilingualism, speech production, neofalantes, new speakers, Galician, galego, Galician phonetics, Galician vowels, vogais galego]
+tags: [Bilingualism, Speech production, Neofalantes, New speakers, Galician, Galego, Galician phonetics, Galician vowels, Language dominance switch]
 
 # Display this page in the Featured widget?
 featured: true
@@ -87,12 +87,3 @@ projects:
 slides:
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
