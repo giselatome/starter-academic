@@ -26,7 +26,7 @@ publishDate: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cambio lingüístico no galego actual"
+publication: "*Cambio lingüístico no galego actual*. Edited by Xosé Luís Regueira and Elisa Fernández Rei. Instituto da Lingua Galega / Consello da Cultura, 99-127."
 publication_short: 
 
 abstract: 
