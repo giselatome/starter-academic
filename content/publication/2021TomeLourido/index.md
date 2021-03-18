@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 
 date: "2021-03-18"
-doi: "10.1017/S1366728918000603"
+doi: "10.3390/languages6010053"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

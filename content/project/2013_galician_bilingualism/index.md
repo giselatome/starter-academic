@@ -32,6 +32,6 @@ url_video: ""
 slides: 
 ---
 
-**Collaborators**: Bronwen G. Evans (UCL), Robert Mayr (Cardiff Metropolitan Univesrity)
+**Collaborators**: <a href="https://www.ucl.ac.uk/pals/people/bronwen-evans" target="_blank">Bronwen G. Evans</a> (UCL), Robert Mayr (Cardiff Metropolitan University)
 
 **Summary**: This project uses phonetic methods, perception tasks and eye-tracking to investigate Galician-Spanish bilinguals' speech production and perception, with a focus on Galician new speakers (neofalantes).
