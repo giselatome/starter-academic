@@ -28,7 +28,7 @@ url_video: ""
 slides: 
 ---
 
-**Collaborators**: Robert Lennon (Lancaster University) and Bronwen G. Evans (UCL).
+**Collaborators**: Robert Lennon (Lancaster University) and <a href="https://www.ucl.ac.uk/pals/people/bronwen-evans" target="_blank">Bronwen G. Evans</a> (UCL).
 
 **Funding**: School of Languages, Cultures and Societies, University of Leeds.
 
