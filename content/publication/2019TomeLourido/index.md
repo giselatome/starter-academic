@@ -49,7 +49,7 @@ summary:
 tags: [Bilingualism, Speech production, Neofalantes, New speakers, Galician, Galego, Galician phonetics, Galician vowels, Language dominance switch]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
