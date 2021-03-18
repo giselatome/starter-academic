@@ -31,7 +31,7 @@ url_video: ""
 slides: 
 ---
 
-**Principal Investigator**: Janet Watson (University of Leeds)
+**Principal Investigator**: <a href="https://ahc.leeds.ac.uk/languages/staff/151/janet-c-e-watson" target="_blank">Janet Watson</a> (University of Leeds)
 
 **Collaborators**: Barry Heselwood (University of Leeds)
 
