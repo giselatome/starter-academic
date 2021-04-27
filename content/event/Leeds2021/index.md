@@ -11,8 +11,9 @@ address:
   postcode:
   country:
 
-summary: 
+summary: This talk was delivered at the <a href="https://www.latl.leeds.ac.uk/events/linguistic-diversity-as-a-source-of-implicit-bias/" target="_blank">Embracing Linguistic Diversity</a> event, hosted by the <a href="https://www.latl.leeds.ac.uk/research-satellites/teaching-languages/" target="_blank">Centre of Excellence in Language Teaching (CELT)</a> and <a href="https://www.latl.leeds.ac.uk/"target="_blank">Language@Leeds (CELT)</a>. The event aimed to foster a better understanding of linguistic diversity, raise awareness of implicit biases rooted in linguistic differences, report on students’ experience of linguistic bias, discuss the implications for the language classroom and equality and diversity policy and practice and showcase examples of good practice in integrating linguistic diversity in language teaching. 
 abstract:
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,8 +31,8 @@ tags: [Sociophonetics, Sociophonetic processing, Accent bias, Speech processing,
 featured: false
 
 image:
-  caption:
-  focal_point: 
+  caption: ''
+  focal_point: Right
 
 links:
 #- icon: twitter
