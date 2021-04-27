@@ -4,7 +4,7 @@ title: "What is accent variation and why does it matter?"
 event: Embracing Linguistic Diversity.
 event_url: https://www.latl.leeds.ac.uk/events/linguistic-diversity-as-a-source-of-implicit-bias/
 
-location: "University of Leeds."
+location: "University of Leeds, Leeds, UK."
 address:
   street: 
   city: 
