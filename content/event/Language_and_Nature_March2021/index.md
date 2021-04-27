@@ -7,7 +7,7 @@ event_url:
 location: Leeds, UK
 address:
 
-summary: 
+summary: This talk was delivered at a session on the Phonetics and Phonology of Modern South Arabian Languages. The session was part of a series of  online workshop on Language and Nature in Southern Arabia organised by Janet Watson (University of Leeds), Kamela Russell (UC Berkeley) and Fabio Gasparini (FU-Berlin).
 abstract: 
 
 # Talk start and end times.
