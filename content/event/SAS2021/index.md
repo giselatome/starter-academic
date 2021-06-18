@@ -12,12 +12,12 @@ abstract: "This paper presents an acoustic and auditory analysis of the short vo
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-09T15:00:00Z"
+date: "2021-07-10T17:10:00Z"
 date_end: 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-03-08T20:00:00Z"
+publishDate: "2021-06-18T15:30:00Z"
 
 authors: 
 - Janet Watson
