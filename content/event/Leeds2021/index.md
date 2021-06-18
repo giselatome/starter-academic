@@ -1,7 +1,7 @@
 ---
 title: "What is accent variation and why does it matter?"
 
-event: Embracing Linguistic Diversity.
+event: Embracing Linguistic Diversity
 event_url: https://www.latl.leeds.ac.uk/events/linguistic-diversity-as-a-source-of-implicit-bias/
 
 location: "University of Leeds, Leeds, UK."
@@ -23,7 +23,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: []
+authors: 
+- admin
 tags: [Sociophonetics, Sociophonetic processing, Accent bias, Speech processing, Accent variation]
 
 # Is this a featured talk? (true/false)
