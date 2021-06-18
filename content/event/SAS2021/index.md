@@ -2,9 +2,9 @@
 title: "Short vowels in Mehri, a Modern South Arabian Language: An acoustic and auditory analysis."
 
 event: "54th Seminar for Arabian Studies."
-event_url: 
+event_url: "https://www.theiasa.com/2021-seminar/"
 
-location: Online
+location: "Online"
 address:
 
 summary: 
@@ -33,7 +33,7 @@ image:
   focal_point: Right
 
 links:
-url_code: "https://www.theiasa.com/2021-seminar/"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -44,6 +44,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: 
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
