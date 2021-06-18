@@ -33,7 +33,7 @@ image:
   focal_point: Right
 
 links:
-url_code: ""
+url_code: "https://www.theiasa.com/2021-seminar/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
