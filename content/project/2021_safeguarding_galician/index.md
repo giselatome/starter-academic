@@ -31,4 +31,4 @@ slides:
 
 **Funding**: Michael Beverley Innovation Fellowship
 
-**Summary**: "The project focusses on safeguarding Galician, a minoritised language in north-west Spain undergoing a process of language shift, as younger generations increasingly speak Spanish. The main goal of the project is to work with the community to develop sustainable solutions to foster language maintenance and minimise language-based discrimination. The main activities involve collaborating with teachers and local groups to co-create innovative educational materials and initiatives."
+**Summary**: The project focusses on safeguarding Galician, a minoritised language in north-west Spain undergoing a process of language shift, as younger generations increasingly speak Spanish. The main goal of the project is to work with the community to develop sustainable solutions to foster language maintenance and minimise language-based discrimination. The main activities involve collaborating with teachers and local groups to co-create innovative educational materials and initiatives.
