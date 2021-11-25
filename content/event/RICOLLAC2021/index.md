@@ -1,5 +1,5 @@
 ---
-title: "Accent comprehension and accent bias in a first and second language"
+title: "Accent comprehension and accent bias in a first and second language."
 
 event: Keynote talk, 1st Riphah International Conference on Language, Literature, and Culture (RICOLLAC)
 event_url: https://www.riphah.edu.pk/ricollac-2/

@@ -1,5 +1,5 @@
 ---
-title: "Using eye-tracking to investigate the role of regional variation in spoken word recognition"
+title: "Using eye-tracking to investigate the role of regional variation in spoken word recognition."
 
 event: Invited talk
 event_url: http://wp.lancs.ac.uk/phonetics/

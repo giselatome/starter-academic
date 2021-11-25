@@ -1,5 +1,5 @@
 ---
-title: "O papel dos factores sociais no procesamento da fala bilingüe"
+title: "O papel dos factores sociais no procesamento da fala bilingüe."
 
 event: Invited talk
 event_url: https://ilg.usc.es/gl/novidades/o-papel-dos-factores-sociais-no-procesamento-da-fala-bilingue

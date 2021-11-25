@@ -1,5 +1,5 @@
 ---
-title: "The role of social factors in bilingual speech processing: the case of Galician New Speakers"
+title: "The role of social factors in bilingual speech processing: the case of Galician New Speakers."
 summary: 
 tags:
 - Bilingual speech processing

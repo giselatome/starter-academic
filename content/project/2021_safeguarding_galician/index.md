@@ -1,5 +1,5 @@
 ---
-title: "Safeguarding minoritised languages in a global world: protecting and promoting the Galician language"
+title: "Safeguarding minoritised languages in a global world: protecting and promoting the Galician language."
 summary: 
 tags:
 - Galician bilingualism

@@ -1,5 +1,5 @@
 ---
-title: "The phonetics and phonology of Modern South Arabian: Mehri and Shehret"
+title: "The phonetics and phonology of Modern South Arabian: Mehri and Shehret."
 summary: 
 tags:
 - Phonetics and phonology
