@@ -30,12 +30,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
+**Dates**: 2019-2022
 
 **Principal Investigator**: <a href="https://ahc.leeds.ac.uk/languages/staff/151/janet-c-e-watson" target="_blank">Janet Watson</a> (University of Leeds)
 
-**Collaborators**: Barry Heselwood (University of Leeds)
+**Collaborators**: Barry Heselwood (University of Leeds) and Abdullah Musallam al-Mahri
 
 **Funding**: Leverhulme Trust
 
 **Summary**: This project investigates the the sound systems of Mehri and Shehret, two endangered Modern South Arabian languages (MSAL) spoken in
-Southern Arabia.
+Southern Arabia. For more information, please follow <a href="https://ahc.leeds.ac.uk/directory_record/1588/the_phonetics_and_phonology_of_modern_south_arabian_mehri_and_shehret" target="_blank">this link</a>. 
