@@ -18,7 +18,7 @@ organizations:
   url: "https://ahc.leeds.ac.uk/languages/staff/1196/dr-gisela-tome-lourido"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Gisela Tomé Lourido is a Lecturer in Sociophonetics in the Linguistics and Phonetics department at the University of Leeds. 
+bio: Gisela Tomé Lourido is a <a href="https://www.latl.leeds.ac.uk/" target="_blank"> Lecturer in Sociophonetics in the Linguistics and Phonetics department at the University of Leeds</a>. 
 # Interests to show in About widget
 interests:
 - Sociophonetic variation in speech production and perception
