@@ -58,7 +58,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/09/TomeLouridoetal_UKLVC12.pdf
 url_slides: ""
 url_video: ""
 
