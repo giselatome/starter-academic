@@ -2,7 +2,7 @@
 title: "Processing regional accent variation: Real-time and reaction time measures."
 
 event: "UK Language Variation and Change 13 (UKLVC13)"
-event_url: "https://uklvc13.com/"
+event_url: 
 location: "University of Glasgow, Glasgow, UK."
 address:
 
