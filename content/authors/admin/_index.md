@@ -52,7 +52,7 @@ social:
   icon_pack: fas
   link: 'mailto:g.tomelourido@leeds.ac.uk'
 - icon: linkedn
-  icon_pack: ai
+  icon_pack: fab
   link: 'www.linkedin.com/in/gise-tome-lourido'
 - icon: researchgate
   icon_pack: ai
