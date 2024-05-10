@@ -36,7 +36,7 @@ summary:
 tags: [Bilingualism, Speech production, Neofalantes, New speakers, Galician, Galego, Sociolinguistic awareness, Galician phonetics, Galician vowels, Language dominance switch]
 
 # Display this page in the Featured widget?
-featured: false-
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
