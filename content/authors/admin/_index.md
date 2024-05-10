@@ -80,7 +80,7 @@ highlight_name: false
 
 Gisela Tomé Lourido is a <a href="https://ahc.leeds.ac.uk/languages/staff/1196/dr-gisela-tome-lourido" target="_blank"> Lecturer in Sociophonetics in the Linguistics and Phonetics department at the University of Leeds</a>. Her research interests are in accent variation, bias and inequalities in bilingual and monolingual populations.
 
-She co-leads the <a href="https://www.latl.leeds.ac.uk/" target="_blank"> Language@Leeds</a> <a href="https://www.latl.leeds.ac.uk/embracing-linguistic-diversity/" target="_blank"> 'Embracing Linguistic Diversity' satellite</a>, a working group developing a series of initiatives to celebrate linguistic diversity and minimise language-based prejudices and disadvantages, starting from our University context.
+She is the Director of <a href="https://www.latl.leeds.ac.uk/" target="_blank"> Language@Leeds</a>, a network addressing key societal issues through the interdisciplinary study of language. She co-leads the <a href="https://www.latl.leeds.ac.uk/" target="_blank"> Language@Leeds</a> <a href="https://www.latl.leeds.ac.uk/embracing-linguistic-diversity/" target="_blank"> 'Embracing Linguistic Diversity' satellite</a>, a working group developing a series of initiatives to celebrate linguistic diversity and minimise language-based prejudices and disadvantages, starting from our University context.
 
 She welcomes PhD applications on accent bias and inequalities, the role of accent variation in speech processing in L1 and L2 listeners, and Galician speech production and perception.
 

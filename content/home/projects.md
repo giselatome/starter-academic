@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Accent bias
+    tag: Accent bias
   - name: Sociophonetic processing
     tag: Sociophonetic processing
   - name: Galician bilingualism
