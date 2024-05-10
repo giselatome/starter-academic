@@ -21,11 +21,11 @@ organizations:
 bio: Gisela Tomé Lourido is a Lecturer in Sociophonetics in the Linguistics and Phonetics department at the University of Leeds.
 # Interests to show in About widget
 interests:
+- Accent bias and inequalities
 - Sociophonetic variation in speech production and perception
 - Bilingual speech processing
 - Galician phonetics
 - L2 speech learning
-- Accent bias (L1 & L2 speakers and listeners)
 
 # Education to show in About widget
 education:
