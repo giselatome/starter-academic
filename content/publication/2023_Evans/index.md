@@ -26,12 +26,9 @@ publishDate:
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*The Routledge Handbook of Sociophonetics*'
+publication: '*The Routledge Handbook of Sociophonetics*. Edited by Christopher Strelluf. Routledge, 411-430'
 publication_short:
 
-editor: 'Christopher Strelluf'
-publisher: 'Routledge'
-pages: '411-430'
 abstract: 
 
 # Summary. An optional shortened abstract.
@@ -47,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf:
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,7 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 'Sociophonetic_processing'
+projects: ''
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
