@@ -47,7 +47,7 @@ featured: true
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'media/AccentBias_2023_scribe.jpg'
 url_project: ''
 url_slides: ''
 url_source: 'https://www.routledge.com/The-Routledge-Handbook-of-Sociophonetics/Strelluf/p/book/9780367472795'
