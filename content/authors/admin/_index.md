@@ -50,7 +50,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:g.tomelourido@leeds.ac.uk'
+- icon: linkedn
+  icon_pack: ai
+  link: 'www.linkedin.com/in/gise-tome-lourido'
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Gisela_Tome_Lourido
