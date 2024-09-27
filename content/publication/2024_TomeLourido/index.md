@@ -29,10 +29,7 @@ publication_types: ["4"]
 publication: 
 publication_short:
 
-abstract: New research explores the accent-based disadvantages experienced by
-university students. An accent equality statement is proposed to be included
-in university inductions to reduce discrimination and improve students’ sense
-of belonging. 
+abstract: New research explores the accent-based disadvantages experienced by university students. An accent equality statement is proposed to be included in university inductions to reduce discrimination and improve students’ sense of belonging. 
 
 # Summary. An optional shortened abstract.
 summary: 
