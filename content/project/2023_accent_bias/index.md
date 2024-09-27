@@ -32,4 +32,4 @@ slides:
 
 **Funding**: Michael Beverley Innovation Fellowship
 
-**Summary**: "This project aims to develop sustainable initiatives to celebrate linguistic diversity and tackle accent-based inequalities in different sectors, starting from Higher Education. Initiatives include a University-wide survey of University of Leeds students' experiences of accent-based disadvantages, and developing context-specific solutions in partnership with the Leeds University Union, EDI teams, and Higher Education institutions."
+**Summary**: This project aims to develop sustainable initiatives to celebrate linguistic diversity and tackle accent-based inequalities in different sectors, starting from Higher Education. Initiatives include a University-wide survey of University of Leeds students' experiences of accent-based disadvantages, and developing context-specific solutions in partnership with the Leeds University Union, EDI teams, and Higher Education institutions.
