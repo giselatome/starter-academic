@@ -89,7 +89,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
-phone = "+44(0)113 343 3222"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -112,7 +112,6 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "x-twitter", icon_pack = "fab", name = "DM Me", link = "https://x.com/GiseTome"},
   {icon = "linkedin", icon_pack = "fab", name = "Message Me", link = "https://www.linkedin.com/in/gise-tome-lourido/"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
@@ -128,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "GiseTome"
+
 
 ############################
 ## Regional Settings
