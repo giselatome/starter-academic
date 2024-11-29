@@ -54,8 +54,8 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Gisela_Tome_Lourido
-- icon: x
-  icon_pack: fas
+- icon: x-twitter
+  icon_pack: fab
   link: https://x.com/GiseTome
 - icon: google-scholar
   icon_pack: ai
