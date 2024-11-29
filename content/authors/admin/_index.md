@@ -51,15 +51,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:g.tomelourido@leeds.ac.uk'
+
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gise-tome-lourido/
+  
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Gisela_Tome_Lourido
+
 - icon: x-twitter
-  icon_pack: fab
+  icon_pack: ai
   link: https://x.com/GiseTome
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mI7o22EAAAAJ&hl=en
+
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3456-7334
