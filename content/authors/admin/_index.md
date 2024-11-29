@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position/tagline
-role: Lecturer in Sociophonetics
+role: Associate Professor in Sociophonetics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://ahc.leeds.ac.uk/languages/staff/1196/dr-gisela-tome-lourido"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Gisela Tomé Lourido is a Lecturer in Sociophonetics in the Linguistics and Phonetics department at the University of Leeds.
+bio: Gisela Tomé Lourido is an Associate Professor in Sociophonetics in the Linguistics and Phonetics department at the University of Leeds.
 # Interests to show in About widget
 interests:
 - Accent bias and inequalities
@@ -54,9 +54,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Gisela_Tome_Lourido
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/GiseTome
+  link: https://x.com/GiseTome
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mI7o22EAAAAJ&hl=en
