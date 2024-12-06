@@ -1,34 +1,34 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+#widget: featurette
 
 # This file represents a page section.
-headless: true
+#headless: true
 
 # Order that this section appears on the page.
-weight: 20
+#weight: 20
 
-title: Skills
-subtitle:
+#title: Skills
+#subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: ""
-  icon: "r-project"
-  icon_pack: "fab"
-  name: "R"
+#feature:
+#- description: ""
+#  icon: "r-project"
+#  icon_pack: "fab"
+#  name: "R"
 
-- description: ""
-  icon: "headphones"
-  icon_pack: "fas"
-  name: "Praat"
-- description: ""
-  icon: "eye"
-  icon_pack: "fas"
-  name: "Eye-tracking"
+#- description: ""
+#  icon: "headphones"
+#  icon_pack: "fas"
+#  name: "Praat"
+#- description: ""
+#  icon: "eye"
+#  icon_pack: "fas"
+#  name: "Eye-tracking"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
