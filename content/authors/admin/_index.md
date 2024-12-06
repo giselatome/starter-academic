@@ -25,7 +25,7 @@ interests:
 - Sociophonetic variation in speech production and perception
 - Bilingual speech processing
 - Galician phonetics
-- L2 speech learning
+- Second language speech learning
 
 # Education to show in About widget
 education:
@@ -82,5 +82,5 @@ Gisela Tomé Lourido is an <a href="https://ahc.leeds.ac.uk/languages/staff/1196
 
 She is the Director of <a href="https://www.latl.leeds.ac.uk/" target="_blank"> Language@Leeds</a>, a network addressing key societal issues through the interdisciplinary study of language. She co-leads the <a href="https://www.latl.leeds.ac.uk/" target="_blank"> Language@Leeds</a> <a href="https://www.latl.leeds.ac.uk/embracing-linguistic-diversity/" target="_blank"> 'Embracing Linguistic Diversity' satellite</a>, a working group developing a series of initiatives to celebrate linguistic diversity and minimise language-based prejudices and disadvantages, starting from our University context.
 
-She welcomes PhD applications on accent bias and inequalities, the role of accent variation in speech processing in L1 and L2 listeners, and Galician speech production and perception.
+She welcomes PhD applications on accent bias and inequalities, the role of accent variation in speech processing in first- (L1) and second-language (L2) listeners, and Galician speech production and perception.
 
